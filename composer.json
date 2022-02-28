@@ -1,5 +1,5 @@
 {
-    "name": "petfinder-com/petfinder-php",
+    "name": "boundstate/petfinder-php",
     "description": "Petfinder API client",
     "keywords": [
         "pets",
@@ -16,7 +16,6 @@
         }
     ],
     "require": {
-        "php": "^7.1",
         "ext-json": "*",
         "mtdowling/jmespath.php": "^2.2",
         "php-http/async-client-implementation": "^1.0",
